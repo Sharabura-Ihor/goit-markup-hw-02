@@ -300,3 +300,11 @@ font-family: 'Roboto';
  background-color:#4D5AE5 ;
  color: #F4F4FD;
 }
+
+.nav:hover {
+    color: #4D5AE5;;
+}
+
+.cont:hover {
+    color: #4D5AE5;
+}
