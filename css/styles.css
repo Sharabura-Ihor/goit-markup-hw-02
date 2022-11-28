@@ -295,3 +295,7 @@ font-family: 'Roboto';
     background-color: #4D5AE5;
     color: #F4F4FD;
 }
+
+.nav_port :hover {
+ background-color:#4D5AE5 ;
+}
