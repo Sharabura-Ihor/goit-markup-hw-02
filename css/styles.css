@@ -291,8 +291,7 @@ font-family: 'Roboto';
     flex-grow: 0;
 }
 
-.button_order  {
+.nav_port {
     background-color: #4D5AE5;
-    color: #FFFFFF;
+    color: #F4F4FD;
 }
-
