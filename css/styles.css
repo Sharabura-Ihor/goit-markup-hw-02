@@ -292,10 +292,11 @@ font-family: 'Roboto';
 }
 
 .nav_port {
-    background-color:#FFFFFF;
+    background-color:#F4F4FD;
     color: #4D5AE5;
 }
 
 .nav_port :hover {
  background-color:#4D5AE5 ;
+ color: #F4F4FD;
 }
