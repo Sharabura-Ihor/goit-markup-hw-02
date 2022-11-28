@@ -290,3 +290,7 @@ font-family: 'Roboto';
     order: 1;
     flex-grow: 0;
 }
+a:hover {
+    color: #4D5AE5;
+    text-decoration: none;
+}
