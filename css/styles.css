@@ -4,7 +4,6 @@
         sans-serif;
     font-family: 'Raleway',
         sans-serif;
-        text-decoration: underline none;
 }
 
 .webstudio {
@@ -24,6 +23,7 @@
         flex: none;
         order: 1;
         flex-grow: 0;
+                text-decoration: underline none;
 }
 
 .web {
@@ -43,6 +43,7 @@
         flex: none;
         order: 0;
         flex-grow: 0;
+                text-decoration: underline none;
 }
 
 .nav {
@@ -59,6 +60,7 @@
         flex: none;
         order: 0;
         flex-grow: 0;
+                text-decoration: underline none;
 }
 
 .cont {
@@ -71,6 +73,7 @@
         letter-spacing: 0.02em;
 
         color: #434455;
+                text-decoration: underline none;
 }
 
 .solut {
