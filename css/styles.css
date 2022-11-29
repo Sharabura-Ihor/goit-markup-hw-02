@@ -23,7 +23,6 @@
         flex: none;
         order: 1;
         flex-grow: 0;
-                text-decoration: none;
 }
 
 .web {
@@ -43,7 +42,6 @@
         flex: none;
         order: 0;
         flex-grow: 0;
-                text-decoration: none;
 }
 
 .nav {
@@ -60,7 +58,6 @@
         flex: none;
         order: 0;
         flex-grow: 0;
-                text-decoration: none;
 }
 
 .cont {
@@ -338,3 +335,7 @@ font-family: 'Roboto';
 .nav:active {
     color: #4D5AE5;
 }
+
+a {
+text-decoration: none;
+ }
