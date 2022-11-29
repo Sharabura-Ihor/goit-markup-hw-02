@@ -95,6 +95,7 @@ display: flex;
     background: #4D5AE5;
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
         border-radius: 4px;
+        cursor: pointer;
 }
 
 .butt_text {
@@ -294,6 +295,7 @@ font-family: 'Roboto';
 .nav_port {
     background-color:#F4F4FD;
     color: #4D5AE5;
+    cursor: pointer;
 }
 
 .nav_port:hover {
