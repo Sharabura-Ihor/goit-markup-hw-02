@@ -82,20 +82,12 @@ display: flex;
     gap: 10px;
 
     background: #4D5AE5;
-
-        cursor: pointer;
+    cursor: pointer;
 }
 
-.butt_text {
-    font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        line-height: 0.8;
-
-        letter-spacing: 0.04em;
-    
-        color: #FFFFFF;
-
+button:hover {
+    text-decoration: none;
+    color: #404BBF;
 }
 
 .char_header {
@@ -253,16 +245,6 @@ a:hover {
     color:#4D5AE5;
 }
 
-button:hover {
-    text-decoration: none;
-  color: #404BBF;
-}
-
 .footer_color {
     background-color: #2E2F42;
-}
-
-.button_order button:hover {
-    text-decoration: none;
-    color: #404BBF;
 }
