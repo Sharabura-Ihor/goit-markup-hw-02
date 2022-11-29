@@ -23,7 +23,7 @@
         flex: none;
         order: 1;
         flex-grow: 0;
-                text-decoration: underline none;
+                text-decoration: none;
 }
 
 .web {
@@ -43,7 +43,7 @@
         flex: none;
         order: 0;
         flex-grow: 0;
-                text-decoration: underline none;
+                text-decoration: none;
 }
 
 .nav {
@@ -60,7 +60,7 @@
         flex: none;
         order: 0;
         flex-grow: 0;
-                text-decoration: underline none;
+                text-decoration: none;
 }
 
 .cont {
@@ -73,7 +73,7 @@
         letter-spacing: 0.02em;
 
         color: #434455;
-                text-decoration: underline none;
+        text-decoration: none;
 }
 
 .solut {
