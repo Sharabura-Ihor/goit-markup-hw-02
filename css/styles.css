@@ -308,34 +308,17 @@ font-family: 'Roboto';
     color: #4D5AE5;;
 }
 
-.cont:hover {
-    color: #4D5AE5;
-}
-
-.nav {
-    color: #2E2F42;
-}
-
-.cont {
-    color: #2E2F42;
-}
-
-.nav_port:active {
-    color: #4D5AE5;
-}
-
-.button_order:active {
-    color: #404BBF;
-}
-
-.nav.link:hover {
-    color: #434455;
-}
-
-.nav .active {
-    color: #4D5AE5;
-}
-
 a {
 text-decoration: none;
+color: #2E2F42;
  }
+
+a:hover {
+    text-decoration: none;
+  color: #434455
+}
+
+a:active {
+    text-decoration: none;
+    color:#4D5AE5;
+}
