@@ -61,14 +61,6 @@
         flex-grow: 0;
 }
 
-.nav:hover {
-    color: #434455;
-}
-
-.nav:active {
-    color: #4D5AE5;
-}
-
 .cont {
     font-family: 'Roboto';
         font-style: normal;
@@ -334,4 +326,12 @@ font-family: 'Roboto';
 
 .button_order:active {
     color: #404BBF;
+}
+
+.nav:hover {
+    color: #434455;
+}
+
+.nav:active {
+    color: #4D5AE5;
 }
