@@ -328,11 +328,11 @@ font-family: 'Roboto';
     color: #404BBF;
 }
 
-.nav-link:hover {
+.nav.link:hover {
     color: #434455;
 }
 
-.nav:active {
+.nav .active {
     color: #4D5AE5;
 }
 
