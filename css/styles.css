@@ -261,3 +261,8 @@ button:hover {
 .footer_color {
     background-color: #2E2F42;
 }
+
+.button_order button:hover {
+    text-decoration: none;
+    color: #404BBF;
+}
