@@ -85,9 +85,9 @@
 
 }
 
-button:hover {
-    text-decoration: none;
-    color: #404BBF;
+.button_order:hover {
+    background-color: #404BBF;
+    color: #F4F4FD;
 }
 
 .char_header {
@@ -249,7 +249,3 @@ a:hover {
     background-color: #2E2F42;
 }
 
-.button_order:hover {
-    background-color:#404BBF ;
-    color: #F4F4FD;
-}
