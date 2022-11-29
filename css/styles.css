@@ -1,71 +1,48 @@
 
 .body {
-    font-family: 'Roboto',
-        sans-serif;
-    font-family: 'Raleway',
-        sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .webstudio {
     font-family: 'Raleway';
         font-style: normal;
         font-weight: 800;
-        font-size: 18px;
-        line-height: 24px;
+        line-height: 0.75;
 
-        display: flex;
-        align-items: center;
         letter-spacing: 0.03em;
-        text-transform: uppercase;
 
         color: #2E2F42;
 
-        flex: none;
-        order: 1;
-        flex-grow: 0;
 }
 
 .web {
     font-family: 'Raleway';
         font-style: normal;
         font-weight: 800;
-        font-size: 18px;
-        line-height: 24px;
+        line-height: 0.75;
 
-        display: flex;
-        align-items: center;
         letter-spacing: 0.03em;
-        text-transform: uppercase;
 
         color: #4D5AE5;
 
-        flex: none;
-        order: 0;
-        flex-grow: 0;
 }
 
 .nav {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 600;
-        font-size: 16px;
-        line-height: 24px;
+        font-weight: 500;
+        line-height: 0.6;
 
         letter-spacing: 0.02em;
 
         color: #2E2F42;
 
-        flex: none;
-        order: 0;
-        flex-grow: 0;
 }
 
 .cont {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 24px;
+        line-height: 0.6;
 
         letter-spacing: 0.02em;
 
@@ -73,14 +50,16 @@
         text-decoration: none;
 }
 
+.service_order {
+    background-color: #2E2F42;
+}
+
 .solut {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 600;
-        font-size: 56px;
-        line-height: 60px;
+        font-weight: 500;
+        line-height: 0.9;
 
-        text-align: center;
         letter-spacing: 0.02em;
     
         color: #FFFFFF;
@@ -89,76 +68,56 @@
 .button_order {
 display: flex;
     flex-direction: row;
-    align-items: flex-start;
     padding: 16px 32px;
     gap: 10px;
 
     background: #4D5AE5;
-        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-        border-radius: 4px;
+
         cursor: pointer;
 }
 
 .butt_text {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 600;
-        font-size: 16px;
-        line-height: 19px;
+        font-weight: 500;
+        line-height: 0.8;
 
-        display: flex;
-        align-items: center;
         letter-spacing: 0.04em;
     
         color: #FFFFFF;
 
-        flex: none;
-        order: 0;
-        flex-grow: 0;
 }
 
 .char_header {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 600;
-        font-size: 20px;
-        line-height: 24px;
+        font-weight: 500;
+        line-height: 0.8;
 
         letter-spacing: 0.02em;
 
         color: #2E2F42;
 
-        flex: none;
-        order: 0;
-        flex-grow: 0;
 }
 
 .char {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 24px;
+        line-height: 0.6;
 
         letter-spacing: 0.02em;
 
         color: #434455;
 
-        flex: none;
-        order: 1;
-        flex-grow: 0;
 }
 
 .wawd {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 600;
-        font-size: 36px;
-        line-height: 40px;
+        font-weight: 500;
+        line-height: 0.9;
 
-        text-align: center;
         letter-spacing: 0.02em;
-        text-transform: capitalize;
     
         color: #2E2F42;
 }
@@ -166,13 +125,10 @@ display: flex;
 .ot {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 600;
-        font-size: 36px;
-        line-height: 40px;
+        font-weight: 500;
+        line-height: 0.9;
 
-        text-align: center;
         letter-spacing: 0.02em;
-        text-transform: capitalize;
     
         color: #2E2F42;
 }
@@ -180,43 +136,31 @@ display: flex;
 .teamate_name {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 600;
-        font-size: 20px;
-        line-height: 24px;
+        font-weight: 500;
+        line-height: 0.8;
 
-        text-align: center;
         letter-spacing: 0.02em;
 
         color: #2E2F42;
-    
-        flex: none;
-        order: 0;
-        flex-grow: 0;
+
 }
 
 .teamate_prof {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 24px;
+        font-weight: 800;
+        line-height: 0.6;
 
-        text-align: center;
         letter-spacing: 0.02em;
 
         color: #434455;
 
-        flex: none;
-        order: 1;
-        flex-grow: 0;
 }
 
 .footer_text {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 24px;
+        line-height: 0.6;
 
         letter-spacing: 0.02em;
 
@@ -237,60 +181,41 @@ display: flex;
             border: 1px solid #E7E9FC;
             border-radius: 4px;
 
-            flex: none;
-            order: 1;
-            flex-grow: 0;
 }
 
 .nav_port_text {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 600;
-        font-size: 16px;
-        line-height: 24px;
+        font-weight: 500;
+        line-height: 0.6;
 
-        display: flex;
-        align-items: center;
-        text-align: center;
         letter-spacing: 0.04em;
 
         color: #4D5AE5;
 
-        flex: none;
-        order: 0;
-        flex-grow: 0;
 }
 
 .name_proj {
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 600;
-        font-size: 20px;
-        line-height: 24px;
+        font-weight: 500;
+        line-height: 0.8;
 
         letter-spacing: 0.02em;
 
         color: #2E2F42;
 
-        flex: none;
-        order: 0;
-        flex-grow: 0;
 }
 
 .type_proj {
 font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    line-height: 0.6;
 
     letter-spacing: 0.02em;
 
     color: #434455;
 
-    flex: none;
-    order: 1;
-    flex-grow: 0;
 }
 
 .nav_port {
@@ -315,10 +240,14 @@ color: #2E2F42;
 
 a:hover {
     text-decoration: none;
-  color: #434455
+    color:#4D5AE5;
 }
 
-a:active {
+button:hover {
     text-decoration: none;
-    color:#4D5AE5;
+  color: #404BBF;
+}
+
+.footer_color {
+    background-color: #2E2F42;
 }
