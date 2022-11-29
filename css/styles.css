@@ -4,7 +4,7 @@
         sans-serif;
     font-family: 'Raleway',
         sans-serif;
-        text-underline-offset: none;
+        text-decoration: underline none;
 }
 
 .webstudio {
@@ -328,7 +328,7 @@ font-family: 'Roboto';
     color: #404BBF;
 }
 
-.nav:hover {
+.nav-link:hover {
     color: #434455;
 }
 
