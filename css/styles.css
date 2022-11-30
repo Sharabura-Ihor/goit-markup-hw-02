@@ -51,7 +51,6 @@
 
         color: #2E2F42;
         list-style: none;
-        text-decoration: none;
 
 }
 
@@ -257,4 +256,12 @@ font-family: 'Roboto';
 
 a {
     text-decoration: none;
+}
+
+.img {
+    list-style: none;
+}
+
+.pecu {
+    list-style: none;
 }
