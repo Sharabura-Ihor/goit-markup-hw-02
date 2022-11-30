@@ -58,25 +58,18 @@ a {
 
 }
 
-.nav:hover {
-      color:#4D5AE5;
-}
-
 .nav_port {
     box-sizing: border-box;
-
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
     padding: 8px 16px;
-
     background: #4D5AE5;
 
-    color:  #E7E9FC;
-    border-radius: 4px;
+    color:#E7E9FC;
     cursor: pointer;
 
+}
+
+.nav:hover {
+    color: #4D5AE5;
 }
 
 .nav_port:hover {
