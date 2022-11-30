@@ -55,17 +55,24 @@
 }
 
 .nav_port {
-background: #4D5AE5;
+    background: #4D5AE5;
     color: #F4F4FD;
     cursor: pointer;
 }
 
 .nav_port:hover {
     background-color: #404BBF;
-        color: #F4F4FD;
+    color: #F4F4FD;
+}
+
+.nav {
+     background: #4D5AE5;
+     color: #F4F4FD;
+     cursor: pointer;
 }
 
 .nav:hover {
+    background-color: #404BBF;
     color: #4D5AE5;
 }
 
