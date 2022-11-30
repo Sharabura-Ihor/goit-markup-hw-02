@@ -3,6 +3,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 .webstudio {
     font-family: 'Raleway';
         font-style: normal;
@@ -50,9 +54,13 @@
         letter-spacing: 0.02em;
 
         color: #2E2F42;
-        list-style: none;
-        
+        text-decoration: none;
 
+}
+
+.nav:hover {
+    background-color: #4D5AE5;
+    color: #F4F4FD;
 }
 
 .nav_port {
@@ -63,11 +71,6 @@
 
 .nav_port:hover {
     background-color: #404BBF;
-    color: #F4F4FD;
-}
-
-.nav:hover {
-    background-color:#4D5AE5 ;
     color: #F4F4FD;
 }
 
@@ -253,8 +256,4 @@ font-family: 'Roboto';
 
 .footer_color {
     background-color: #2E2F42;
-}
-
-a {
-    text-decoration: none;
 }
