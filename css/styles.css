@@ -245,3 +245,7 @@ font-family: 'Roboto';
 .footer_color {
     background-color: #2E2F42;
 }
+
+.list {
+    list-style: none;
+}
