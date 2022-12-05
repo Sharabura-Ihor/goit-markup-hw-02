@@ -1,27 +1,20 @@
 
 .body {
     font-family: 'Roboto', sans-serif;
+    width: 1158px;
 }
 
 a {
     text-decoration: none;
 }
 
-.header {
+.container {
     display: flex;
-    width: 1158px;
+    margin: 0 auto;
 
 }
 
 .webstudio {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 0px;
-    width: 115px;
-    height: 24px;
-    left: 156px;
-    top: 24px;
 
     font-family: 'Raleway';
         font-style: normal;
@@ -33,10 +26,6 @@ a {
 
         color: #2E2F42;
 
-        display: flex;
-         flex-direction: row;
-         align-items: flex-start;
-         padding: 0px;
 }
 
 .webstudio_footer {
@@ -66,14 +55,7 @@ a {
 
 .nav {
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 0px;
-    gap: 40px;
-    width: 261px;
-    height: 24px;
-    left: 348px;
-    top: 24px;
+
 
     font-family: 'Roboto';
         font-style: normal;
@@ -85,6 +67,7 @@ a {
 
         color: #2E2F42;
         text-decoration: none;
+        margin: 0 auto;
 
 
 }
@@ -121,6 +104,7 @@ a {
 
 .service_order {
     background-color: #2E2F42;
+
 }
 
 .solut {
@@ -133,15 +117,18 @@ a {
         letter-spacing: 0.02em;
     
         color: #FFFFFF;
+        text-align: center;
+        padding: 192px 0;
+        margin: 0 auto;
 }
 
 .button_order {
-    padding: 16px 32px;
-    gap: 10px;
-
     background: #4D5AE5;
     color: #F4F4FD;
     cursor: pointer;
+    display: block;
+
+
 
 }
 
@@ -161,6 +148,7 @@ a {
 
         color: #2E2F42;
         text-decoration: none;
+                margin: 0 auto;
 }
 
 .char {
@@ -172,6 +160,7 @@ a {
         letter-spacing: 0.02em;
 
         color: #434455;
+                margin: 0 auto;
 
 }
 
@@ -185,6 +174,8 @@ a {
         letter-spacing: 0.02em;
     
         color: #2E2F42;
+        text-align: center;
+                margin: 0 auto;
 }
 
 .ot {
@@ -197,6 +188,7 @@ a {
         letter-spacing: 0.02em;
     
         color: #2E2F42;
+                margin: 0 auto;
 }
 
 .teamate_name {
@@ -209,6 +201,7 @@ a {
         letter-spacing: 0.02em;
 
         color: #2E2F42;
+
 
 }
 
@@ -233,6 +226,8 @@ a {
         letter-spacing: 0.02em;
 
         color: #E7E9FC;
+
+        margin: 0 auto;
 }
 
 
